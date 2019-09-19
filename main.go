@@ -35,7 +35,7 @@ func main() {
 		}
 
 	default:
-		siteURL = "https://monzo.com"
+		siteURL = "https://google.com"
 		depth = 1
 	}
 
